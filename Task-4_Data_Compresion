@@ -1,0 +1,5 @@
+input.txt
+rle_compression.c
+compressed.txt
+decompressed.txt
+README.md
